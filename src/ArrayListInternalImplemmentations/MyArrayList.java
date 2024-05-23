@@ -35,7 +35,6 @@ public class MyArrayList<T> {  //The type parameter T allows to store elements o
         elementData = newArray;
     }
 
-
     public int size() {
         return size;
     }

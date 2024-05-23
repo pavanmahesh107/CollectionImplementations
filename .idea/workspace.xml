@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec075b5b-323f-45c5-9156-f8a6ca15ec42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayListInternalImplemmentations/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayListInternalImplemmentations/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayListInternalImplemmentations/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ArrayListInternalImplemmentations/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayListInternalImplemmentations/MyArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -39,6 +42,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.ArrayListInternalImplemmentations.Main.executor": "Run",
     "Application.CollectionsArrayList.Main.executor": "Run",
     "Application.Comparable.Main.executor": "Run",
     "Application.Main.executor": "Run",
@@ -86,7 +90,7 @@
       <updated>1716196903597</updated>
       <workItem from="1716196904907" duration="8269000" />
       <workItem from="1716356691961" duration="3066000" />
-      <workItem from="1716372233529" duration="5460000" />
+      <workItem from="1716372233529" duration="8033000" />
     </task>
     <servers />
   </component>
